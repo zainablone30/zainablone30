@@ -1,3 +1,4 @@
+![logo](https://github.com/zainablone30/zainablone30/blob/main/WhatsApp%20Image%202024-05-11%20at%2001.46.30_dc0a464a.jpg)
 <h1 align="center">Hi 👋, I'm Zainab Asif</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
